@@ -7,6 +7,12 @@ namespace dotnetapp.Models
 {
     public class Team
     {
-        // Write your Team class here...        
+    public string Name{get;set;}  
+
+    public int Age{get;set;}  
+
+    public int OrganizerId{get;set;}  
+
+        
     }
 }
