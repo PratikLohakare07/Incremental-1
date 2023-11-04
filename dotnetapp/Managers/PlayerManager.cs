@@ -28,7 +28,7 @@ namespace dotnetapp.Managers
         
        }
 
-       public void DeletePlayer()
+       public void DeletePlayer(int id)
        {
         
        }
@@ -41,6 +41,11 @@ namespace dotnetapp.Managers
        public void FindPlayer()
        {
         
+       }
+
+       public void AddPlayerToDatabase(Player player)
+       {
+
        }
 
       
