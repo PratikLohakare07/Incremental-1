@@ -13,7 +13,37 @@ namespace dotnetapp.Managers
 {
     public class PlayerManager
     {
-        // Write your fuctions here...
+       public void DisplayAllPlayers()
+       {
+
+       }
+
+       public void AddPlayer()
+       {
+        
+       }
+
+       public void EditPlayer()
+       {
+        
+       }
+
+       public void DeletePlayer()
+       {
+        
+       }
+       
+       public void ListPlayers()
+       {
+        
+       }
+
+       public void FindPlayer()
+       {
+        
+       }
+
+      
         // DisplayAllPlayers
         // AddPlayer
         // EditPlayer
